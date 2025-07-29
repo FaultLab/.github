@@ -1,4 +1,4 @@
 
 <p align="center">
-<img src="./banner.png" alt="FaultLab" />
+<img src="./banner-alt.png" alt="FaultLab" />
 </p>
