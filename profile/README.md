@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="./banner.png" alt="FaultLab" />
+<img src="./intro.png" alt="FaultLab" />
 </p>
 
 ## Organization Structure & Conventions
